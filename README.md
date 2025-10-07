@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HirushaKulararhna/HirushaKulararhna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Hirusha Kularathna!
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast;Always+learning%2C+Always+building" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+
+---
+
+## 🚀 About Me
+
+```typescript
+const developer = {
+    name: "Hirusha Kularathna",
+    role: "Full Stack Developer",
+    location: "Your Location",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Dart"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "Tailwind CSS", "Flutter"],
+        backEnd: ["Node.js", "Express", "Django", "Spring Boot", "Firebase"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Docker", "Git", "AWS", "Figma"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm not ashamed!"
+};
+```
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<div align="center">
+  
+### Show some ❤️ by starring some of my repositories!
+  
+</div>
