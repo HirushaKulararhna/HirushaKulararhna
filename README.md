@@ -5,13 +5,13 @@
 
 </div>
 
+---
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,flutter,dart,firebase" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,flutter,dart,firebase,mongodb,mysql" /><br>
 </div>
 <br/>
-
 
 ---
 
