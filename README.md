@@ -1,18 +1,16 @@
 <div align="center">
 
 # 👋 Hi there, I'm Hirusha Kularathna!
-
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb" /><br>
-</div>
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast;Always+learning%2C+Always+building" alt="Typing SVG" />
 
 </div>
 
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,flutter,dart,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb" /><br>
+</div>
+<br/>
 
 
 ---
