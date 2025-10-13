@@ -21,7 +21,7 @@
 const developer = {
     name: "Hirusha Kularathna",
     role: "Full Stack Developer",
-    location: "Your Location",
+    location: "Matara",
     code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Dart"],
     technologies: {
         frontEnd: ["React", "Next.js", "Tailwind CSS", "Flutter"],
